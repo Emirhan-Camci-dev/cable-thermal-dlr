@@ -1,0 +1,22 @@
+[package]
+name = "cable_thermal_core"
+version.workspace = true
+authors.workspace = true
+edition.workspace = true
+description = "AGPLv3 Community Edition: High-precision IEEE 738 steady-state overhead line thermal calculation engine."
+license = "AGPL-3.0-only"
+repository = "https://github.com/byemir/cable-thermal-dlr"
+documentation = "https://docs.rs/cable_thermal_core"
+readme = "../README.md"
+keywords = ["dlr", "ieee-738", "power-grid", "scada", "ampacity"]
+categories = ["science", "simulation", "embedded"]
+
+[dependencies]
+# Error handling
+thiserror = "1.0"
+# Zero-allocation logging/telemetry
+tracing = "0.1"
+
+[dev-dependencies]
+# Property-based testing for robust physics verification
+proptest = "1.4"
