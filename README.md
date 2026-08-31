@@ -1,7 +1,6 @@
 # CableThermal-DLR
 
-![Build Status](https://github.com/byemir/cable-thermal-dlr/actions/workflows/ci.yml/badge.svg)
-![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)
+
 
 **High-Precision Deterministic Thermal Rating Engine (Dynamic Line Rating & Transformer Limits)**
 
@@ -57,7 +56,7 @@ This project follows an **Open-Core / Dual-Licensing** model.
 **CableThermal-DLR Pro** is available for commercial deployment by utilities and engineering firms.
 Our proprietary licensing operates 100% offline via Ed25519 signature verification, ensuring your critical SCADA infrastructure remains air-gapped while fully compliant.
 
-👉 [**Purchase Enterprise License via Polar.sh**](https://polar.sh)
+👉 [**Purchase Enterprise License via Polar.sh**](https://buy.polar.sh/polar_cl_CEXI0nPpZEuXhQcRkk1J2GKM0hijAac736IcD2eenlW)
 
 ---
 *Copyright © 2026 Emirhan CAMCI. All rights reserved.*
